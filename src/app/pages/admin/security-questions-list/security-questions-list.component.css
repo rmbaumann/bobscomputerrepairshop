@@ -1,0 +1,9 @@
+.table-container {
+  height: 400px;
+  overflow: auto;
+}
+
+.mat-raised-button {
+  background-color: #81d4fa;
+  color: black;
+}
